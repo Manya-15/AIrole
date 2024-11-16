@@ -137,7 +137,11 @@ def showTemplateOne():
     else:
         st.warning("Please enter your name.")
 
-
+st.set_page_config(
+    page_title="Future AI Role",
+    page_icon="🤖",
+    layout="wide"
+)
 
 
 # Directory path for role templates
