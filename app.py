@@ -218,7 +218,7 @@ if submitted:
     st.subheader(f"Your AI Role: {assigned_role}")
     st.write(f"Here's how you, as a **{assigned_role}**, can contribute to AI and sustainability:")
     st.write(role_descriptions[assigned_role])
-     st.write("Download the below made template and share your personalized template on Instagram or your story and tag us @sdgyouthleaders and @1m1b_ipu to get featured!")
+    st.write("Download the below made template and share your personalized template on Instagram or your story and tag us @sdgyouthleaders and @1m1b_ipu to get featured!")
 
 
     # Search for the template based on the role and gender
