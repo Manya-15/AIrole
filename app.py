@@ -152,7 +152,7 @@ Take this quiz to find out your unique AI role and how you can contribute to the
 with st.sidebar:
     st.header("Share your Role")
     st.write("     ")
-    st.write("Share your personalized template on Instagram or your story and tag us @sdgyouthleaders and @1m1bipu to get featured!")
+    st.write("Share your personalized template on Instagram or your story and tag us @sdgyouthleaders and @1m1b_ipu to get featured!")
 
 
 
